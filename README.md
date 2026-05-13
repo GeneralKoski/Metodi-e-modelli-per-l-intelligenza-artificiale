@@ -6,9 +6,10 @@ Appunti, esercizi e materiale di studio per il corso **Metodi e modelli per l'in
 
 | Campo | Valore |
 |---|---|
-| Codice | 1013067 |
+| Codice | 334989 |
 | Corso di laurea | Scienze Informatiche (LM) |
-| Mutuato da | Ingegneria Gestionale — Metodi e modelli per le decisioni (cod. 1005262) |
+| Mutuato da | Ingegneria Gestionale — Metodi e modelli per le decisioni (9 CFU, DISTI) |
+| Programma 6 CFU | fino a *Trasporto generalizzato e problemi facili* incluso |
 | Anno / Semestre | 1° anno — 2° semestre |
 | CFU | 6 |
 | Ore | 48 (lezioni frontali) |
@@ -18,7 +19,7 @@ Appunti, esercizi e materiale di studio per il corso **Metodi e modelli per l'in
 | Docente | Prof. Lorenzo Nicolodi |
 | Dipartimento | Scienze Matematiche, Fisiche e Informatiche (SMFI) |
 
-Pagina ufficiale: <https://corsi.unipr.it/it/ugov/degreecourse/329442>
+Pagina ufficiale: <https://corsi.unipr.it/it/ugov/degreecourse/334989>
 
 ## Obiettivi formativi
 
@@ -69,10 +70,10 @@ Lezioni frontali con esempi, applicazioni ed esercizi assegnati e discussi a lez
 
 ## Link utili
 
-- [Pagina del corso (UniPR)](https://corsi.unipr.it/it/ugov/degreecourse/329442)
+- [Pagina del corso (UniPR)](https://corsi.unipr.it/it/ugov/degreecourse/334989)
 - [Corso di laurea — Scienze Informatiche](https://corsi.unipr.it/it/scheda/cdlm-info)
-- [Materiale didattico — Portale Elly](https://elly.smfi.unipr.it/)
-- [Calendario esami](https://corsi.unipr.it/it/ugov/degreecourse/329442)
+- [Materiale didattico — Elly2025](https://elly2025.didattica.unipr.it/course/index.php?categoryid=2)
+- [Calendario esami](https://corsi.unipr.it/it/ugov/degreecourse/334989)
 
 ## Contatti
 

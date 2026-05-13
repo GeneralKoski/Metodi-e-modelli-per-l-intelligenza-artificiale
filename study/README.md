@@ -8,8 +8,11 @@ Percorso ottimale per preparare l'esame, suddiviso in **teoria** e **pratica**. 
    - Es. leggi `teoria/01_*.md` → fai `pratica/01_*.md` → poi passa a `02`.
 2. Argomenti raggruppati in 2 macro-blocchi (come da indicazioni dei colleghi):
    - **Blocco A — Algoritmi sui grafi** (file 01-06)
-   - **Blocco B — Programmazione intera & ottimizzazione combinatoria** (file 07-12)
-3. Alla fine, **simulazione d'esame** completa con `esami nicolodi risolti.pdf` (in `Appunti_colleghi/Zip_appunti/`).
+   - **Blocco B — Programmazione intera & ottimizzazione combinatoria** (file 07-14 teoria, 07-12 pratica)
+3. Alla fine, **simulazione d'esame** completa con `esami nicolodi risolti.pdf` (vedi `pratica/13_simulazione_esame.md`).
+
+## Programma 6 CFU (limite ufficiale)
+Il programma per Scienze Informatiche **arriva fino a "Trasporto generalizzato e problemi facili" incluso** (file 14 teoria, 12 pratica). Le lezioni 23+ dei gestionali (es. branch & bound completo, piani di taglio, programmazione dinamica) **non rientrano** nel 6 CFU.
 
 ## Struttura
 
